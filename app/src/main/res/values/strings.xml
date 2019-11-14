@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavAssignment</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Add Student</string>
+    <string name="title_notifications">About Us</string>
+</resources>
